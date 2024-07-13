@@ -30,9 +30,7 @@ Make sure you have the following dependencies installed:
 
 1.	Google Drive (if using Google Colab):
 
->       Mount your Google Drive by running:
-
-- from google.colab import drive drive.mount('/content/drive')
+-       from google.colab import drive drive.mount('/content/drive')
 
 2.	Directory Structure:
 
